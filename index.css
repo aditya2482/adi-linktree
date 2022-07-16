@@ -44,7 +44,7 @@ main{
     position: relative;
 }
 header {
-    margin-top: 2em;
+    margin-top: 3em;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -53,7 +53,7 @@ header {
 }
 
 header > img {
-    width: 20em;
+    width: 15em;
     height: auto;
     border-radius: 100%;
     border: 1px solid purple;
@@ -62,7 +62,7 @@ header > img {
 
 header > h1 {
     display: inline-block;
-    font-size: 3em;
+    font-size: 4em;
     font-weight: bold;
     border-radius: 5em;
     background-color: #000000;
